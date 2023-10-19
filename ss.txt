@@ -1,0 +1,26 @@
+git  clone " pest link here "
+cd folder name(repo on git hub)
+git status
+go to created folder then add one text file 
+go cmd
+git status
+git add .
+git commit -m " done"
+git push
+then go to git hub refresh it & reate new sample file
+back to cmd & git pull..
+
+
+sudo apt update
+git clone -pest link-
+ls
+cd sittflstore
+ls
+cd data
+mv products_data.json products.json
+cd ..
+sudo apt update
+sudo apt install npm
+npm install
+npm start
+
